@@ -3,23 +3,6 @@
 ***********************************************/
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;600;700;900&display=swap');
 
-:root {
-    /* --color-cyan: #5FB4A2;
-    --color-red: #F43030;
-    --color-dark-blue: #203A4C;
-    --color-grayish-dark-blue: #33323D;
-    --color-very-light-gray: #FAFAFA;
-    --color-light-gray: #EAEAEB;
-    --color-white: #FFFFFF;
-    --color-border-gray: #DCDCDE;
-    --color-form-input-bg: #E5E5E6;
-    --color-form-input-place-holder: #9D9DA3; */
-}
-
-.dark {
-    /* --bg-color-main: hsl(207, 26%, 17%); */
-}
-
 .light {
     --body-bg-color: hsl(0, 0%, 98%);
     --navbar-footer-bg-color: rgba(51, 50, 61, 0.981);
@@ -46,7 +29,6 @@
 body {
     background-color: var(--body-bg-color);
     color: var(--txt-color);
-    display: flex;
     justify-content: center;
     height: 100vh;
 }

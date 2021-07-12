@@ -9,11 +9,11 @@
         margin-top: 2rem;
     }
 
-    .social-media svg path {
-        fill: var(--txt-color-navbar-footer);
+    .get-in-touch .social-media svg path {
+        fill: var(--txt-color);
     }
 
-    .social-media svg:hover > path {
+    .get-in-touch .social-media svg:hover > path {
         fill: var(--btn-hover);
     }
 
