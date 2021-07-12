@@ -31,4 +31,4 @@ function toggleIcon() {
 
 
 // Page transition SWUP library
-// const swup = new Swup();
+const swup = new Swup();
