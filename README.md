@@ -97,6 +97,7 @@ To my next project I want to test my JS skills by using an API.
 - <a href="https://stackoverflow.com/questions/25450600/what-does-the-svg-xmlns-attribute-do" target="_blank" alt="">What does the SVG xmlns attribute do?</a>
 - <a href="https://www.w3schools.com/graphics/svg_path.asp" target="_blank" alt="">The <path> element</a>
 - <a href="https://iconmonstr.com" target="_blank" alt="">SVG <path> Icons</a>
+- <a href="https://learnopidia.com/responsive-media-queries-scss/" target="_blank" alt="">How to use Responsive media queries in SCSS</a>
   
 
 ## Author
